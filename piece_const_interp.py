@@ -1,5 +1,5 @@
 #############################################################
-# recover piecewise constant function
+# recover piecewise constant function by using Tensorflow
 # Author: Zhiwei Fang
 # Copyright reserved
 #############################################################
